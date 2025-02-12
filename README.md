@@ -4,13 +4,8 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. This command installs a package and any packages that it depends on</p>
 
-```
-npm install
-```
-
-<p>2. If Code gives errors then only run this command</p>
+<p>1. If Code gives errors then only run this command</p>
 
 ```
 npm install @fullcalendar
